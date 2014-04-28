@@ -1,0 +1,7 @@
+name: hangman
+version: 0.0.1
+author: Xavier Mainguy-Thériault et TOSSOU KOUAMIVI
+description: "Implementation du célebre jeu hangman game.\r\nutilisant le framework\
+  \ dart, les elements html 5 comme canvas et css."
+dependencies:
+  browser: any

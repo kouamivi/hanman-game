@@ -1,0 +1,36 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1 {
+  color: #333;
+  margin-left: 500px;
+}
+
+#canvas{
+  margin-left: 550px;
+}
+
+#canvasPhrase{
+  margin-left: 550px;
+}
+
+#touches{
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+#instructions{
+  position: relative;
+  margin-top: -400px;
+  margin-right: 1050px;
+  padding-left: 15px;
+  border:2px solid;
+  border-radius:15px;
+}
